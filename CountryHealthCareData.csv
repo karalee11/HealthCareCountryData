@@ -1,4 +1,4 @@
 Country,Average_Healthcare_Fees,Access_to_Healthcare,Average_Waiting_Times,Physicians_per_1000 Capita,Smoking_Rate,Obesity_Rate
-USA,12000,0.92,26,2.6,16,0.47
+USA,12000,0.92,26,2.6,0.16,0.47
 Germany,5699,0.88,4,4.5,0.35,0.91
 Canada,7068,1,27.4,2.4,0.12,0.27
